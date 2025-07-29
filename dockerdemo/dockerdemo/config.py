@@ -1,0 +1,7 @@
+DB="demo"
+DB_USER="root"
+DB_PASSWORD="root@123"
+MDB="demo_mdl"
+MDB_USER="root"
+MDB_PASS="root@123"
+MDB_HOST=""
